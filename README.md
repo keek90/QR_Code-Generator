@@ -1,2 +1,3 @@
 # python_project
-Here I am uploading python projects....
+Simple QR Code Generator using Python.
+#Beginner-friendly Project
